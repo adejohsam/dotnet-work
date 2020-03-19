@@ -1,0 +1,11 @@
+/home/samson/greatbook/src/Greatbook/bin/Debug/netcoreapp3.1/Greatbook
+/home/samson/greatbook/src/Greatbook/bin/Debug/netcoreapp3.1/Greatbook.deps.json
+/home/samson/greatbook/src/Greatbook/bin/Debug/netcoreapp3.1/Greatbook.runtimeconfig.json
+/home/samson/greatbook/src/Greatbook/bin/Debug/netcoreapp3.1/Greatbook.runtimeconfig.dev.json
+/home/samson/greatbook/src/Greatbook/bin/Debug/netcoreapp3.1/Greatbook.dll
+/home/samson/greatbook/src/Greatbook/bin/Debug/netcoreapp3.1/Greatbook.pdb
+/home/samson/greatbook/src/Greatbook/obj/Debug/netcoreapp3.1/Greatbook.csprojAssemblyReference.cache
+/home/samson/greatbook/src/Greatbook/obj/Debug/netcoreapp3.1/Greatbook.AssemblyInfoInputs.cache
+/home/samson/greatbook/src/Greatbook/obj/Debug/netcoreapp3.1/Greatbook.AssemblyInfo.cs
+/home/samson/greatbook/src/Greatbook/obj/Debug/netcoreapp3.1/Greatbook.dll
+/home/samson/greatbook/src/Greatbook/obj/Debug/netcoreapp3.1/Greatbook.pdb

@@ -1,0 +1,3 @@
+/home/samson/gradebook/obj/Debug/netcoreapp3.1/gradebook.csprojAssemblyReference.cache
+/home/samson/gradebook/obj/Debug/netcoreapp3.1/gradebook.AssemblyInfoInputs.cache
+/home/samson/gradebook/obj/Debug/netcoreapp3.1/gradebook.AssemblyInfo.cs
